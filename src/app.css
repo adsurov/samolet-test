@@ -1,0 +1,10 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  margin: 20px auto;
+  min-height: 100vh;
+}
+
+.libs {
+  overflow: hidden
+}
